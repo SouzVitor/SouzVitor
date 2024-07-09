@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SouzVitor
-- 👀 I’m interested in software test
-- 🌱 I’m currently learning automate testing
-- 💞️ I’m looking to collaborate any software testing team, I want to learn new skills, gain experience in the test area
+- 👀 I’m interested in web developer and software test 
+- 🌱 I’m currently learning HTML,CSS. JAVAScript and some Frameworks
+- 💞️ I’m looking to collaborate any web developer team, I want to learn new skills, gain experience 
 - 📫 How to reach me? Send a e-mail to vitortecam@gmail.com
 
 <!---
